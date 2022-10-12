@@ -1,4 +1,7 @@
 # IMU-data-analysis and feature-engineering
+
+This project is cooperative projects, I use IMU data for facial classification(my thesis project) and motion tracking(Dr. Yincheng Jin's thesis), beacuse his paper hasn't been published yet. I won't upload motion tracking model traning part without his permission.
+
 Covert raw data into images and find the interval for each sample using Giotto-tda. 
 
 Some explainable AI result can not shown correctly in ipynb code (no image) on the Github, because the JavaScript limitation. So I upload some screen shot for this project.
