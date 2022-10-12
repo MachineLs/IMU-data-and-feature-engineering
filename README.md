@@ -1,6 +1,6 @@
 # IMU-data-analysis and feature-engineering
 
-This project is a cooperative project, I use IMU data for facial classification(my thesis project) and motion tracking(Dr. Yincheng Jin's thesis), beacuse his paper hasn't been published yet. I won't upload motion tracking traning part without his permission.
+This project is a cooperative project(Dr. Yingcheng Jin and me), I use IMU data for facial classification(my thesis project) and motion tracking(Dr. Yincheng Jin's thesis), beacuse his paper hasn't been published yet. I won't upload motion tracking traning part without his permission (although I resopnsiable for model training).
 
 Covert raw data into images and find the interval for each sample using Giotto-tda. 
 
